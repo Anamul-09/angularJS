@@ -1,0 +1,4 @@
+#ignore file and folder
+todo/node_modules
+primer/node_modules
+example/node_modules
